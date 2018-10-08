@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="KotlinJavaScript" type="kotlin.js">
+    <CLASSES>
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-js.jar!/" />
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-scripting-common.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/cucumber-kotlin/lib/cucumber-kotlin-1.0.1.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/JavaScript Test Finder/lib/JavaScript Test Finder.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/js-karma/lib/js-karma.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/JsTestDriver/lib/coverage-1.3.5.jar!/" />
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-test-js.jar!/" />
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-test-junit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-js-sources.jar!/" />
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-jslib-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="jar://$KOTLIN_BUNDLED$/lib/kotlin-test-js.jar!/" recursive="false" />
+  </library>
+</component>
